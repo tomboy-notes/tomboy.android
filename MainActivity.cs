@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace tomboy.android
 {
-	[Activity (Label = "tomboy.android", MainLauncher = true)]
+	[Activity (Label = "Tomboy", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
 		int count = 1;

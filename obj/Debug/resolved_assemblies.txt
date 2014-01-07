@@ -1,3 +1,0 @@
-C:\Users\User\Documents\GitHub\tomboy.android\bin\Debug\tomboy.android.dll
-C:\Users\User\Documents\GitHub\tomboy.android\Components\xamandroidsupportv7appcompat-7.18.0\lib\android\Xamarin.Android.Support.v4.dll
-C:\Users\User\Documents\GitHub\tomboy.android\Components\xamandroidsupportv7appcompat-7.18.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll
